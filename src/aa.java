@@ -5,5 +5,11 @@ public class aa {
         String[] split = aa.split(" ");
         System.out.println(split[0]);
         System.out.println(split[1]);
+		
+		    System.out.println(split[0]);
+			
+			    System.out.println(split[0]);
+		
+		
     }
 }
